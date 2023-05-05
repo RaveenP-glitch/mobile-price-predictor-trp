@@ -1,6 +1,5 @@
 streamlit==1.15.2
 sklearn
-pickle
 numpy
 pandas
 bs4
