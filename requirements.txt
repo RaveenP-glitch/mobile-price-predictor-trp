@@ -1,5 +1,6 @@
 streamlit==1.15.2
 scikit-learn
+pickle5
 numpy
 pandas
 bs4
