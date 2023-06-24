@@ -6,7 +6,6 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import requests
 import re
-from apscheduler.schedulers.background import BlockingScheduler
 
 # import the model
 pipe = pickle.load(open('pipe.pkl','rb'))
